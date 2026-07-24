@@ -5,4 +5,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
