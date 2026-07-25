@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
