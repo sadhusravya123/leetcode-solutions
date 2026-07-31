@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0566-reshape-the-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
 | ------- |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
 |  |
 | ------- |
