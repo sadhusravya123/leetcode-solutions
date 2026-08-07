@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0566-reshape-the-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0506-relative-ranks](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
