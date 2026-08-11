@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0274-h-index](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0506-relative-ranks) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
