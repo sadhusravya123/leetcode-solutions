@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0133-clone-graph](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0205-isomorphic-strings](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
@@ -183,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
