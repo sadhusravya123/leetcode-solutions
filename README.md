@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0078-subsets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 ## Hash Table
