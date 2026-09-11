@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0048-rotate-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0069-sqrtx) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
