@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
