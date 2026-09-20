@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0148-sort-list) |
 | [0274-h-index](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0086-partition-list) |
 | [0147-insertion-sort-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0148-sort-list) |
 ## Matrix
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0148-sort-list) |
 ## Union-Find
 |  |
 | ------- |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
