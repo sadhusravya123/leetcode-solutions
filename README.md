@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0506-relative-ranks](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Math
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0561-array-partition) |
 ## Design
 |  |
 | ------- |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
