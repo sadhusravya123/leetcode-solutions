@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0434-number-of-segments-in-a-string](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0917-reverse-only-letters) |
