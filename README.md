@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [1668-maximum-repeating-substring](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -278,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0561-array-partition) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
