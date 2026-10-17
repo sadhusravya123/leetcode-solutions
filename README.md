@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0832-flipping-an-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0086-partition-list) |
 | [0147-insertion-sort-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0148-sort-list) |
+| [0705-design-hashset](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Matrix
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0705-design-hashset](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Brainteaser
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -293,4 +297,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
