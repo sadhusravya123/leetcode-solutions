@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0832-flipping-an-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1920-build-array-from-permutation](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Recursion
 |  |
 | ------- |
