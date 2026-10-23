@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
