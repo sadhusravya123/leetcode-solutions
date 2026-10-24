@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [3925-concatenate-array-with-reverse](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Recursion
 |  |
 | ------- |
