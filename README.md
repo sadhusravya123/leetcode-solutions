@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sadhusravya123/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2942-find-words-containing-character](https://github.com/sadhusravya123/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sadhusravya123/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Math
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0561-array-partition) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sadhusravya123/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Design
 |  |
 | ------- |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0561-array-partition) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sadhusravya123/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Dynamic Programming
 |  |
 | ------- |
