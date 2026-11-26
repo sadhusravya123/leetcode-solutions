@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0832-flipping-an-image](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [0929-unique-email-addresses](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/sadhusravya123/leetcode-solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0917-reverse-only-letters) |
+| [0929-unique-email-addresses](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 | [1668-maximum-repeating-substring](https://github.com/sadhusravya123/leetcode-solutions/tree/master/1668-maximum-repeating-substring) |
 | [2942-find-words-containing-character](https://github.com/sadhusravya123/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3838-weighted-word-mapping](https://github.com/sadhusravya123/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0705-design-hashset) |
+| [0929-unique-email-addresses](https://github.com/sadhusravya123/leetcode-solutions/tree/master/0929-unique-email-addresses) |
 ## Brainteaser
 |  |
 | ------- |
